@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.AssemblyInfo.cs
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\bin\Debug\net6.0\Btvn_bai4_Menu.exe
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\bin\Debug\net6.0\Btvn_bai4_Menu.deps.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\bin\Debug\net6.0\Btvn_bai4_Menu.runtimeconfig.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\bin\Debug\net6.0\Btvn_bai4_Menu.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\bin\Debug\net6.0\Btvn_bai4_Menu.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\refint\Btvn_bai4_Menu.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\Btvn_bai4_Menu.genruntimeconfig.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai4_Menu\Btvn_bai4_Menu\obj\Debug\net6.0\ref\Btvn_bai4_Menu.dll

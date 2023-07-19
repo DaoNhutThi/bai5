@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\bin\Debug\net6.0\Btvn_bai3.exe
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\bin\Debug\net6.0\Btvn_bai3.deps.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\bin\Debug\net6.0\Btvn_bai3.runtimeconfig.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\bin\Debug\net6.0\Btvn_bai3.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\bin\Debug\net6.0\Btvn_bai3.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.AssemblyInfo.cs
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\refint\Btvn_bai3.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\Btvn_bai3.genruntimeconfig.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_bai3\Btvn_bai3\obj\Debug\net6.0\ref\Btvn_bai3.dll
