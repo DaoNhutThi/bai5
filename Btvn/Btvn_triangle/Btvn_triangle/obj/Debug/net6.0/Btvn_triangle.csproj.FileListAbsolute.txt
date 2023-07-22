@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\bin\Debug\net6.0\Btvn_triangle.exe
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\bin\Debug\net6.0\Btvn_triangle.deps.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\bin\Debug\net6.0\Btvn_triangle.runtimeconfig.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\bin\Debug\net6.0\Btvn_triangle.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\bin\Debug\net6.0\Btvn_triangle.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.AssemblyInfo.cs
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\refint\Btvn_triangle.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\Btvn_triangle.genruntimeconfig.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_triangle\Btvn_triangle\obj\Debug\net6.0\ref\Btvn_triangle.dll

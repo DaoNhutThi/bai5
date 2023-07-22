@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btvn_rectangle", "Btvn_rectangle\Btvn_rectangle.csproj", "{2611C153-FEC3-4A8C-913F-50B5377842B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2611C153-FEC3-4A8C-913F-50B5377842B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2611C153-FEC3-4A8C-913F-50B5377842B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2611C153-FEC3-4A8C-913F-50B5377842B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2611C153-FEC3-4A8C-913F-50B5377842B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7CAC04-93A2-48A6-9912-69C17BDD90FA}
+	EndGlobalSection
+EndGlobal
