@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.AssemblyInfo.cs
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\bin\Debug\net6.0\Btvn_nangCapGame.exe
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\bin\Debug\net6.0\Btvn_nangCapGame.deps.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\bin\Debug\net6.0\Btvn_nangCapGame.runtimeconfig.json
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\bin\Debug\net6.0\Btvn_nangCapGame.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\bin\Debug\net6.0\Btvn_nangCapGame.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\refint\Btvn_nangCapGame.dll
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.pdb
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\Btvn_nangCapGame.genruntimeconfig.cache
+C:\Users\USER\source\repos\DaoNhutThi\bai5\Btvn\Btvn_nangCapGame\Btvn_nangCapGame\obj\Debug\net6.0\ref\Btvn_nangCapGame.dll
